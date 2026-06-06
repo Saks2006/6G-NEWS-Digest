@@ -2,6 +2,8 @@
 
 Automated news and learning-resource digest for emerging wireless, UAV, vehicular-network, and autonomous-systems research.
 
+New to this? Start with [START_HERE.md](START_HERE.md).
+
 The default topic set was built from screenshots covering:
 
 - 6G, Open RAN, Open6G, and open-source wireless testbeds
@@ -42,16 +44,24 @@ If Python is available:
 python .\scripts\digest_provider.py --days 7 --per-topic 5 --output .\latest_digest.md
 ```
 
-## Webhook Posting
+## Slack Or Telegram Posting
 
-Set a webhook URL, then run the provider:
+Slack:
 
 ```powershell
-$env:DIGEST_WEBHOOK_URL="https://your-webhook-url"
+$env:SLACK_WEBHOOK_URL="https://hooks.slack.com/services/..."
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\digest_provider.ps1 -Days 7 -PerTopic 5
 ```
 
-For details, see [docs/webhooks.md](docs/webhooks.md).
+Telegram:
+
+```powershell
+$env:TELEGRAM_BOT_TOKEN="123456:your-bot-token"
+$env:TELEGRAM_CHAT_ID="123456789"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\digest_provider.ps1 -Days 7 -PerTopic 5
+```
+
+For setup details, see [docs/messaging.md](docs/messaging.md).
 
 ## Customize Topics
 
@@ -64,18 +74,30 @@ Edit [config/topics.json](config/topics.json). Each topic has:
 
 ## Automate
 
-Windows Task Scheduler instructions are in [docs/scheduling-windows.md](docs/scheduling-windows.md).
+Step-by-step Slack/Telegram automation is in [docs/automation.md](docs/automation.md).
+
+Windows Task Scheduler instructions are also in [docs/scheduling-windows.md](docs/scheduling-windows.md).
+
+Common setup errors are covered in [docs/troubleshooting.md](docs/troubleshooting.md).
 
 GitHub Actions smoke testing is included in [.github/workflows/smoke-test.yml](.github/workflows/smoke-test.yml).
+
+Daily GitHub Actions posting is included in [.github/workflows/scheduled-digest.yml](.github/workflows/scheduled-digest.yml).
 
 ## Repository Layout
 
 ```text
 .
 ├── .github/workflows/smoke-test.yml
+├── .github/workflows/scheduled-digest.yml
 ├── config/topics.json
 ├── docs/
 ├── examples/resources_only.md
+├── scripts/install_windows_task.ps1
+├── scripts/test_messaging_config.ps1
+├── scripts/find_telegram_chat_id.ps1
+├── scripts/setup_telegram.ps1
+├── scripts/setup_slack.ps1
 ├── scripts/digest_provider.ps1
 ├── scripts/digest_provider.py
 ├── CHANGELOG.md

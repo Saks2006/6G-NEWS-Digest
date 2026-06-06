@@ -1,6 +1,6 @@
 ﻿# Research News Digest
 
-Generated: 2026-06-06 12:37 IST
+Generated: 2026-06-06 17:38 IST
 Window: last 7 days
 
 Topics are based on the screenshots: 6G/Open RAN testbeds, OpenAirInterface, spectrum sharing, sensing, positioning, vehicular networks, UAV AI, autonomous transport, LiDAR, hyperspectral imaging, and traffic recognition.
@@ -11,8 +11,7 @@ Why this matters: Matches the IIT Hyderabad talk theme: experimental 6G research
 
 ### News and papers
 
-- [](https://arxiv.org/abs/2606.06492v1)
-  - arXiv; 2026-06-04
+- No recent items fetched in this run.
 
 ### Free educational resources
 
@@ -26,8 +25,7 @@ Why this matters: The screenshot explicitly mentions OpenAirInterface as an open
 
 ### News and papers
 
-- [](https://arxiv.org/abs/2606.06491v1)
-  - arXiv; 2026-06-04
+- No recent items fetched in this run.
 
 ### Free educational resources
 
@@ -42,20 +40,7 @@ Why this matters: The talk abstract calls out spectrum sharing, sensing, clock d
 
 ### News and papers
 
-- [Sen. Mark Warner to introduce bill to restore MS-ISAC funding, boosting federal cyber support to $50M annually - StateScoop](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3RrZnl4MFNnYXpLNVBmc21wdlplblEzY0JlbDREX2UxbG1ob1BlVG5kdUdTdkRBLW5vUkU0cHIwXzNSel9HZ1RFUXRkLXZRREx6dnZ2alBCbVVTb0NQYWxleDZDdnkxbUMwVjdOWVZWMmNFa0w3a2F1UGctVUFUeDZjQVNraHBGWS00WVJVZUx0VHVFZUhJR05xd2pOeTNnUWdtT0dBUVdhbWxNYWVlZnBtejRzSnpsSGw4b0tMLVNzVlFQWlBEdA?oc=5)
-  - Google News; 2026-06-06
-  - Sen. Mark Warner to introduce bill to restore MS-ISAC funding, boosting federal cyber support to $50M annually    StateScoop
-- [National Spectrum Consortium Opens ISAC Prototype Competition for FutureG Program - executivegov.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzNQVTFzbEFkSGtnbGhmaGFDeEhkcFZCcE9EM2o5dEFXZzV3RmNsNjFSWmN3alFlQm56UDdBRWxDWmJlLXNPSjN0X3B4cEhDVDJfSE1IZFBxekZLWE54NE8tcXFicXhzR001VU9EaHZLTllpWDgwZmVzRDlWeGYtM2JtQ2l0QkFmTnhR?oc=5)
-  - Google News; 2026-06-06
-  - National Spectrum Consortium Opens ISAC Prototype Competition for FutureG Program    executivegov.com
-- [Gladbach ‘have made contact’ over Darmstadt striker Isac Lidberg - OneFootball](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUJwczRJTmcwT19fWWtVM3JfWVd4TkE2YVRSeDkteG45cm90anVRUXVaeldIc3dQNnpvTkFacml0dUNzU1llS1VoSGFWUTNPcE1OUkNfZ1d5NzF6b0l4b1dOa0tDNzZTX3htT2pHMGU3UjAxM3RuaHYzaGlKeVV0VXpjLTFaQ3lBclJTN3JxSFk4VWllRVd1YnlBbFI5OUgxbHp1LVFR?oc=5)
-  - Google News; 2026-06-06
-  - Gladbach ‘have made contact’ over Darmstadt striker Isac Lidberg    OneFootball
-- [](https://arxiv.org/abs/2606.06495v1)
-  - arXiv; 2026-06-04
-- [Raul Isac - Transfermarkt](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRi1lemUxMkhoYl9iVjdtamd3YjFFN1gyeVo4MlpFVFhTaTNkd2Z0Nm4tVWlxT19WMS1JemNhS1BzTFNkeFZ6ZVFFZ251bWlYbkFUY1ZuVkhqTkFHb1pVNzVKa2I0QnA5VVNZUlpIalQ0MFd3WDVoVDBRM2xadzhWQ091Yk12WE5ZbjdhdmpaM3hiMDdTbldkckkwVU1ZTENxOXhiTlVjZmw1Y2JxOWNlVUt0MGg0d05NNWRkWFEwTWRwMUVFN1Nn?oc=5)
-  - Google News; 2026-06-04
-  - Raul Isac    Transfermarkt
+- No recent items fetched in this run.
 
 ### Free educational resources
 
@@ -69,17 +54,7 @@ Why this matters: Matches the patent list items on hybrid sidelink vehicular com
 
 ### News and papers
 
-- [Transportation Safety Board of Canada Reiterates Call for Train Collision Avoidance Systems - Railway Track and Structures](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnlZSzRCbFc4R0xTMTYzWGlfc0VCMW5VM1hPbnhrVjdWTktrNXlhQkYtZmxWVC1LNFJLZTRMaVVwYndyZkROYVZVX1BubEFEWWgxOWdLN0Z4b1dBNkRwa2poSjA2MUs3WVFIMnRNRmRUZTNkQnRUTldoU1h2eW4ydEttSzRuZURsbWYyanlNeFoxekhtdk9TREJzY1FFd3AxZnd6RmtVQlUtdHhLUDVxT2NjSVNlRC1NVlVBazJ4aw?oc=5)
-  - Google News; 2026-06-06
-  - Transportation Safety Board of Canada Reiterates Call for Train Collision Avoidance Systems    Railway Track and Structures
-- [](https://arxiv.org/abs/2606.06482v1)
-  - arXiv; 2026-06-04
-- [Hyundai recalls Tucson SUVs over braking fault - The Witness | Your compass in the community](https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnJWUHA5cHhqVmtwT1hraVd4QlphOERmRHBxWXFjaG5CMllkY1hkaVM5Qi1BY2pjSlNEMW0xeEduOUpuWUVNNVF4N2dxYmR0TVJoS0NoeUdjdGNRQVF3ZUd5dFVKeWtTd0ozV2RicmR6eFEtNmROSXFjY3hJczlGREFLYi15WjRJSjRfOFFR?oc=5)
-  - Google News; 2026-06-03
-  - Hyundai recalls Tucson SUVs over braking fault    The Witness | Your compass in the community
-- [Hyundai Tucson recalled - CarExpert](https://news.google.com/rss/articles/CBMibkFVX3lxTFBqbG5Oc2dYYlhBR3A0Y3lPaU14VDJFLVJvbWMySHF1RVdlT1JYdWR1Zmk4SkVySjRYVVc2LTMtTU9XeC1uQVE5WVNxbmNZRHFzdkxlVnNGQlRSZnRTYTlra0RLcEVUVTd2NmUyaktn?oc=5)
-  - Google News; 2026-06-01
-  - Hyundai Tucson recalled    CarExpert
+- No recent items fetched in this run.
 
 ### Free educational resources
 
@@ -93,8 +68,7 @@ Why this matters: Matches the UAV object detection, hyperspectral crop-water-str
 
 ### News and papers
 
-- [](https://arxiv.org/abs/2606.06487v1)
-  - arXiv; 2026-06-04
+- No recent items fetched in this run.
 
 ### Free educational resources
 
@@ -108,8 +82,7 @@ Why this matters: Matches the patent list items on LiDAR ground removal, traffic
 
 ### News and papers
 
-- [](https://arxiv.org/abs/2606.06485v1)
-  - arXiv; 2026-06-04
+- No recent items fetched in this run.
 
 ### Free educational resources
 
