@@ -1,4 +1,3 @@
-# 6G-NEWS-Digest
 # Research News Digest Provider
 
 Automated news and learning-resource digest for emerging wireless, UAV, vehicular-network, and autonomous-systems research.

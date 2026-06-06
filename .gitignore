@@ -1,0 +1,20 @@
+# Generated digests
+latest_digest.md
+resources_only.md
+raw_results.json
+
+# Secrets
+.env
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
